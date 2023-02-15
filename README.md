@@ -1,0 +1,3 @@
+Indeed-Job-Analyst
+
+The project focuses on solving workforce challenges by matching candidates with the best job opportunities based on their resumes. The application also aims to provide career improvement knowledge from industry experts through a blog. Two datasets were used: Indeed job listings and resumes of applicants submitted to Indeed. Several data cleaning and processing steps were performed for both datasets to extract relevant information. Machine learning algorithms were trained on the processed data to predict the best-suited job for a person based on their qualifications and experience.
